@@ -1,6 +1,6 @@
 <!-- Header with Logo and Tagline -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Devora-Software//main/assets/logo.png" width="120" alt="Devora Logo">
+  <img src="https://raw.githubusercontent.com/Devora-Software/Devora-Software/main/assets/logo.png" width="120" alt="Devora Logo">
   <h1>Devora-Software</h1>
   <p>
     <strong>Innovative Software Engineering Solutions</strong><br>
